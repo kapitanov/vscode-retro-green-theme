@@ -1,0 +1,29 @@
+{
+    "name": "retro-green-theme",
+    "displayName": "retro-green-theme",
+    "description": "",
+    "author": {
+        "name": "Albert Kapitanov",
+        "url": "https://github.com/kapitanov/vscode-retro-green-theme"
+    },
+    "repository": {
+        "url": "https://github.com/kapitanov/vscode-retro-green-theme.git"
+    },
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "publisher": "AlbertKapitanov",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Retro Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/retro-green-color-theme.json"
+            }
+        ]
+    }
+}
