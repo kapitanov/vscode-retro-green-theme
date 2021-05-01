@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "retro-green-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [1.0.0] - 2021-04-12
 
 - Initial release
@@ -17,3 +13,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Fixed active tab colors
 - Made buttons darker
 - Made lists darker
+
+## [1.1.0] - 2021-05-01
+
+- Editor theme changed to Visual Studio 2019 Dark Theme's.
